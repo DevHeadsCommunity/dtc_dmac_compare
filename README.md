@@ -7,8 +7,8 @@ This demo code presents a practical comparison to show how DMAC and DTC both tra
 
 ## General usage
 To use this project file, you need to install the Arduino IDE and add the Renesas R4 core. This will allow you to use the RA FSP (Flexible Software Package) within the Arduino environment
-`
+```
 #include "FspTimer.h"
 #include "r_dtc.h"
 #include "r_dmac.h"
-`
+```
