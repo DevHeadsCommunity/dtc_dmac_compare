@@ -6,7 +6,7 @@ It contains the application source files to support an article post of Renesas R
 This demo code presents a practical comparison to show how DMAC and DTC both transfer the same data from one RAM buffer to another, but use different triggering methods. The demo highlights that DMAC can start immediately by software, while DTC waits for a hardware timer event.
 
 ## General usage
-To use this project file, you need to install the Arduino IDE and add the Renesas R4 core. This will allow you to use the RA FSP (Flexible Software Package) within the Arduino environment
+To use this project file, you need to install the Arduino IDE and add ArduinoCore-renesas. This will allow you to use the RA FSP (Flexible Software Package) within the Arduino environment
 ```
 #include "FspTimer.h"
 #include "r_dtc.h"
