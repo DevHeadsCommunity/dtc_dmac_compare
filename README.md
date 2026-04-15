@@ -1,5 +1,5 @@
 # DTC/DMAC Demo
-## Compare of DTC and DMAC using RA4M1
+## Compare of DTC and DMAC of RA4M1 MCU
 
 
 It contains the application source files to support an article post of Renesas RA4M1 MCU on Arduino Uno R4 Wifi board.
