@@ -14,6 +14,8 @@ To use this project file, you need to install the Arduino IDE and add the Renesa
 ```
 
 ## Building and flashing
+To generate a binary file from the Arduino IDE, go to **Sketch** and select **“Export Compiled Binary”** from the list.
+
 The compiled `.bin` file can be flashed onto the target hardware available on EdgeBench. Simply sign up, select the Arduino Uno R4 Wifi board, then navigate to the **Download** option from the left panel. Click the **Upload** button and browse to your compiled firmware image to proceed.
 
 ## Shell demo
